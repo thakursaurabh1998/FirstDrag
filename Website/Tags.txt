@@ -1,0 +1,10 @@
+<video width="320" height="240" controls="controls">
+  <source src="movie.mp4" type="video/mp4" />
+  <source src="movie.ogg" type="video/ogg" />
+  Your browser does not support the video tag.
+</video>
+ Video
+<body background="legendary_creatures.jpg"> background image
+<a href="default.asp">
+<img border="0" src="smiley.gif" alt="HTML tutorial" width="32" height="32" />
+</a>
